@@ -7,5 +7,6 @@ artifacts:
   files:
     - index.html 
     - favicon.ico
+    - upload-portfolio.py
     - styles/*
     - images/*
